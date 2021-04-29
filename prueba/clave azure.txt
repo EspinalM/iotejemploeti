@@ -1,0 +1,1 @@
+HostName=ETI-CIOT-5.azure-devices.net;DeviceId=Disposito-01;SharedAccessKey=+uAyFMbk3yh4O/5ych+n4IsPxk/rvDGka78ny69E/uk=
